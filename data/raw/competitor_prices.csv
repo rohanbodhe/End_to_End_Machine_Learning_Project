@@ -1,0 +1,751 @@
+event_id,event_name,seat_section,competitor_price,competitor_name,date_checked
+EVT_0000,Taylor Swift - Chicago,VIP,362.41,Ticketmaster,2024-04-23
+EVT_0000,Taylor Swift - Chicago,Floor,285.97,SeatGeek,2024-04-27
+EVT_0000,Taylor Swift - Chicago,Lower Bowl,176.92,Vivid Seats,2024-04-19
+EVT_0000,Taylor Swift - Chicago,Upper Bowl,103.97,StubHub,2024-04-15
+EVT_0000,Taylor Swift - Chicago,General Admission,105.08,SeatGeek,2024-04-13
+EVT_0001,Yankees vs Red Sox - New York,VIP,201.03,StubHub,2024-11-24
+EVT_0001,Yankees vs Red Sox - New York,Floor,185.72,SeatGeek,2024-11-25
+EVT_0001,Yankees vs Red Sox - New York,Lower Bowl,134.71,Ticketmaster,2024-12-03
+EVT_0001,Yankees vs Red Sox - New York,Upper Bowl,62.51,StubHub,2024-12-07
+EVT_0001,Yankees vs Red Sox - New York,General Admission,55.98,SeatGeek,2024-11-21
+EVT_0002,Coachella - Seattle,VIP,503.93,Vivid Seats,2024-07-11
+EVT_0002,Coachella - Seattle,Floor,357.41,Ticketmaster,2024-07-08
+EVT_0002,Coachella - Seattle,Lower Bowl,238.82,Vivid Seats,2024-07-05
+EVT_0002,Coachella - Seattle,Upper Bowl,156.95,StubHub,2024-07-07
+EVT_0002,Coachella - Seattle,General Admission,117.7,Vivid Seats,2024-07-21
+EVT_0003,Taylor Swift - New York,VIP,356.25,Vivid Seats,2024-04-02
+EVT_0003,Taylor Swift - New York,Floor,294.95,Vivid Seats,2024-03-28
+EVT_0003,Taylor Swift - New York,Lower Bowl,218.02,SeatGeek,2024-04-14
+EVT_0003,Taylor Swift - New York,Upper Bowl,105.89,SeatGeek,2024-04-12
+EVT_0003,Taylor Swift - New York,General Admission,110.6,SeatGeek,2024-04-10
+EVT_0004,Lakers vs Warriors - Seattle,VIP,249.63,Vivid Seats,2024-03-31
+EVT_0004,Lakers vs Warriors - Seattle,Floor,177.48,StubHub,2024-04-01
+EVT_0004,Lakers vs Warriors - Seattle,Lower Bowl,116.71,Vivid Seats,2024-03-17
+EVT_0004,Lakers vs Warriors - Seattle,Upper Bowl,67.73,StubHub,2024-04-10
+EVT_0004,Lakers vs Warriors - Seattle,General Admission,52.11,Vivid Seats,2024-04-01
+EVT_0005,Outside Lands - Los Angeles,VIP,508.3,Vivid Seats,2024-08-14
+EVT_0005,Outside Lands - Los Angeles,Floor,379.49,StubHub,2024-07-27
+EVT_0005,Outside Lands - Los Angeles,Lower Bowl,248.8,Ticketmaster,2024-07-31
+EVT_0005,Outside Lands - Los Angeles,Upper Bowl,133.88,StubHub,2024-07-26
+EVT_0005,Outside Lands - Los Angeles,General Admission,120.19,SeatGeek,2024-07-21
+EVT_0006,Bonnaroo - New York,VIP,426.58,SeatGeek,2024-02-21
+EVT_0006,Bonnaroo - New York,Floor,302.06,Vivid Seats,2024-03-09
+EVT_0006,Bonnaroo - New York,Lower Bowl,184.9,StubHub,2024-03-11
+EVT_0006,Bonnaroo - New York,Upper Bowl,100.54,Vivid Seats,2024-02-26
+EVT_0006,Bonnaroo - New York,General Admission,102.88,SeatGeek,2024-03-06
+EVT_0007,John Mulaney - Chicago,VIP,162.78,SeatGeek,2024-03-08
+EVT_0007,John Mulaney - Chicago,Floor,121.6,StubHub,2024-03-18
+EVT_0007,John Mulaney - Chicago,Lower Bowl,84.18,Vivid Seats,2024-03-06
+EVT_0007,John Mulaney - Chicago,Upper Bowl,49.81,SeatGeek,2024-02-24
+EVT_0007,John Mulaney - Chicago,General Admission,40.93,Vivid Seats,2024-03-11
+EVT_0008,Patriots vs Cowboys - New York,VIP,244.03,Vivid Seats,2024-02-04
+EVT_0008,Patriots vs Cowboys - New York,Floor,211.4,StubHub,2024-01-23
+EVT_0008,Patriots vs Cowboys - New York,Lower Bowl,137.4,Ticketmaster,2024-02-16
+EVT_0008,Patriots vs Cowboys - New York,Upper Bowl,83.34,Vivid Seats,2024-01-31
+EVT_0008,Patriots vs Cowboys - New York,General Admission,75.44,SeatGeek,2024-02-12
+EVT_0009,Kevin Hart - Chicago,VIP,166.53,Ticketmaster,2024-06-15
+EVT_0009,Kevin Hart - Chicago,Floor,146.33,SeatGeek,2024-06-24
+EVT_0009,Kevin Hart - Chicago,Lower Bowl,77.32,Ticketmaster,2024-06-15
+EVT_0009,Kevin Hart - Chicago,Upper Bowl,52.54,Vivid Seats,2024-06-11
+EVT_0009,Kevin Hart - Chicago,General Admission,51.13,Ticketmaster,2024-06-19
+EVT_0010,Bonnaroo - New York,VIP,361.41,Vivid Seats,2024-07-29
+EVT_0010,Bonnaroo - New York,Floor,301.0,StubHub,2024-07-28
+EVT_0010,Bonnaroo - New York,Lower Bowl,197.37,StubHub,2024-08-15
+EVT_0010,Bonnaroo - New York,Upper Bowl,129.11,Vivid Seats,2024-07-25
+EVT_0010,Bonnaroo - New York,General Admission,118.33,SeatGeek,2024-08-21
+EVT_0011,Coachella - Miami,VIP,480.66,StubHub,2024-01-12
+EVT_0011,Coachella - Miami,Floor,411.31,SeatGeek,2024-01-20
+EVT_0011,Coachella - Miami,Lower Bowl,266.37,StubHub,2024-01-30
+EVT_0011,Coachella - Miami,Upper Bowl,123.69,SeatGeek,2024-01-15
+EVT_0011,Coachella - Miami,General Admission,129.84,Vivid Seats,2024-01-26
+EVT_0012,Bonnaroo - Seattle,VIP,372.67,SeatGeek,2024-06-24
+EVT_0012,Bonnaroo - Seattle,Floor,323.64,Ticketmaster,2024-06-10
+EVT_0012,Bonnaroo - Seattle,Lower Bowl,236.91,Ticketmaster,2024-06-14
+EVT_0012,Bonnaroo - Seattle,Upper Bowl,105.02,Ticketmaster,2024-06-08
+EVT_0012,Bonnaroo - Seattle,General Admission,118.31,Ticketmaster,2024-07-02
+EVT_0013,Lollapalooza - New York,VIP,399.76,StubHub,2024-01-14
+EVT_0013,Lollapalooza - New York,Floor,343.67,StubHub,2024-01-23
+EVT_0013,Lollapalooza - New York,Lower Bowl,186.91,Vivid Seats,2024-01-15
+EVT_0013,Lollapalooza - New York,Upper Bowl,118.63,Vivid Seats,2024-01-12
+EVT_0013,Lollapalooza - New York,General Admission,90.06,SeatGeek,2023-12-26
+EVT_0014,Patriots vs Cowboys - New York,VIP,226.58,StubHub,2024-04-16
+EVT_0014,Patriots vs Cowboys - New York,Floor,187.65,Vivid Seats,2024-04-24
+EVT_0014,Patriots vs Cowboys - New York,Lower Bowl,118.76,StubHub,2024-04-15
+EVT_0014,Patriots vs Cowboys - New York,Upper Bowl,68.13,Ticketmaster,2024-04-26
+EVT_0014,Patriots vs Cowboys - New York,General Admission,55.07,StubHub,2024-04-07
+EVT_0015,Drake - Chicago,VIP,339.24,Vivid Seats,2024-08-02
+EVT_0015,Drake - Chicago,Floor,275.68,Vivid Seats,2024-07-24
+EVT_0015,Drake - Chicago,Lower Bowl,142.87,Vivid Seats,2024-07-24
+EVT_0015,Drake - Chicago,Upper Bowl,101.81,Ticketmaster,2024-07-21
+EVT_0015,Drake - Chicago,General Admission,92.95,StubHub,2024-08-13
+EVT_0016,Wicked - Chicago,VIP,279.2,StubHub,2024-06-04
+EVT_0016,Wicked - Chicago,Floor,246.44,Vivid Seats,2024-06-24
+EVT_0016,Wicked - Chicago,Lower Bowl,143.22,Ticketmaster,2024-06-01
+EVT_0016,Wicked - Chicago,Upper Bowl,93.45,Ticketmaster,2024-05-31
+EVT_0016,Wicked - Chicago,General Admission,73.89,Ticketmaster,2024-06-26
+EVT_0017,Patriots vs Cowboys - New York,VIP,267.36,StubHub,2024-10-24
+EVT_0017,Patriots vs Cowboys - New York,Floor,195.68,Ticketmaster,2024-10-09
+EVT_0017,Patriots vs Cowboys - New York,Lower Bowl,123.93,SeatGeek,2024-11-01
+EVT_0017,Patriots vs Cowboys - New York,Upper Bowl,68.29,StubHub,2024-11-03
+EVT_0017,Patriots vs Cowboys - New York,General Admission,63.0,Ticketmaster,2024-11-02
+EVT_0018,Yankees vs Red Sox - Los Angeles,VIP,273.24,StubHub,2024-08-05
+EVT_0018,Yankees vs Red Sox - Los Angeles,Floor,241.17,StubHub,2024-07-30
+EVT_0018,Yankees vs Red Sox - Los Angeles,Lower Bowl,125.44,SeatGeek,2024-08-01
+EVT_0018,Yankees vs Red Sox - Los Angeles,Upper Bowl,72.71,StubHub,2024-08-15
+EVT_0018,Yankees vs Red Sox - Los Angeles,General Admission,62.01,Vivid Seats,2024-08-05
+EVT_0019,John Mulaney - Seattle,VIP,188.8,Vivid Seats,2024-04-12
+EVT_0019,John Mulaney - Seattle,Floor,116.71,StubHub,2024-04-11
+EVT_0019,John Mulaney - Seattle,Lower Bowl,80.06,Ticketmaster,2024-03-27
+EVT_0019,John Mulaney - Seattle,Upper Bowl,50.47,StubHub,2024-04-15
+EVT_0019,John Mulaney - Seattle,General Admission,39.02,Vivid Seats,2024-03-27
+EVT_0020,Hamilton - Los Angeles,VIP,271.09,StubHub,2023-12-25
+EVT_0020,Hamilton - Los Angeles,Floor,231.94,Vivid Seats,2024-01-05
+EVT_0020,Hamilton - Los Angeles,Lower Bowl,131.09,Ticketmaster,2024-01-06
+EVT_0020,Hamilton - Los Angeles,Upper Bowl,86.8,Vivid Seats,2023-12-18
+EVT_0020,Hamilton - Los Angeles,General Admission,55.46,StubHub,2024-01-12
+EVT_0021,Phantom of the Opera - Chicago,VIP,284.08,Ticketmaster,2024-01-14
+EVT_0021,Phantom of the Opera - Chicago,Floor,204.04,SeatGeek,2024-01-05
+EVT_0021,Phantom of the Opera - Chicago,Lower Bowl,170.25,Ticketmaster,2024-01-10
+EVT_0021,Phantom of the Opera - Chicago,Upper Bowl,89.59,Ticketmaster,2024-01-12
+EVT_0021,Phantom of the Opera - Chicago,General Admission,83.09,Ticketmaster,2024-01-30
+EVT_0022,Patriots vs Cowboys - Los Angeles,VIP,301.29,StubHub,2024-11-25
+EVT_0022,Patriots vs Cowboys - Los Angeles,Floor,227.57,SeatGeek,2024-11-06
+EVT_0022,Patriots vs Cowboys - Los Angeles,Lower Bowl,157.26,SeatGeek,2024-11-14
+EVT_0022,Patriots vs Cowboys - Los Angeles,Upper Bowl,77.98,StubHub,2024-11-04
+EVT_0022,Patriots vs Cowboys - Los Angeles,General Admission,61.11,Vivid Seats,2024-11-08
+EVT_0023,Ali Wong - Miami,VIP,184.64,Vivid Seats,2024-03-02
+EVT_0023,Ali Wong - Miami,Floor,119.37,SeatGeek,2024-03-07
+EVT_0023,Ali Wong - Miami,Lower Bowl,95.88,Vivid Seats,2024-03-03
+EVT_0023,Ali Wong - Miami,Upper Bowl,59.83,Ticketmaster,2024-03-04
+EVT_0023,Ali Wong - Miami,General Admission,49.59,Vivid Seats,2024-02-28
+EVT_0024,Wicked - Los Angeles,VIP,246.71,StubHub,2024-10-07
+EVT_0024,Wicked - Los Angeles,Floor,182.82,Vivid Seats,2024-09-16
+EVT_0024,Wicked - Los Angeles,Lower Bowl,116.05,Ticketmaster,2024-10-10
+EVT_0024,Wicked - Los Angeles,Upper Bowl,67.03,Ticketmaster,2024-09-30
+EVT_0024,Wicked - Los Angeles,General Admission,54.7,Ticketmaster,2024-10-06
+EVT_0025,Bonnaroo - Seattle,VIP,426.79,Vivid Seats,2024-07-24
+EVT_0025,Bonnaroo - Seattle,Floor,342.36,StubHub,2024-08-04
+EVT_0025,Bonnaroo - Seattle,Lower Bowl,185.85,Vivid Seats,2024-07-29
+EVT_0025,Bonnaroo - Seattle,Upper Bowl,114.47,Ticketmaster,2024-08-01
+EVT_0025,Bonnaroo - Seattle,General Admission,92.24,SeatGeek,2024-08-01
+EVT_0026,Outside Lands - Chicago,VIP,437.86,Ticketmaster,2024-03-31
+EVT_0026,Outside Lands - Chicago,Floor,280.39,Vivid Seats,2024-04-16
+EVT_0026,Outside Lands - Chicago,Lower Bowl,230.3,Vivid Seats,2024-04-06
+EVT_0026,Outside Lands - Chicago,Upper Bowl,134.6,SeatGeek,2024-04-07
+EVT_0026,Outside Lands - Chicago,General Admission,106.82,Ticketmaster,2024-04-05
+EVT_0027,Real Madrid vs Barcelona - New York,VIP,271.71,StubHub,2024-01-11
+EVT_0027,Real Madrid vs Barcelona - New York,Floor,153.88,StubHub,2023-12-29
+EVT_0027,Real Madrid vs Barcelona - New York,Lower Bowl,114.63,Ticketmaster,2024-01-07
+EVT_0027,Real Madrid vs Barcelona - New York,Upper Bowl,63.85,StubHub,2024-01-14
+EVT_0027,Real Madrid vs Barcelona - New York,General Admission,65.42,Ticketmaster,2024-01-20
+EVT_0028,Ed Sheeran - Los Angeles,VIP,385.01,Vivid Seats,2024-11-28
+EVT_0028,Ed Sheeran - Los Angeles,Floor,333.28,Vivid Seats,2024-11-15
+EVT_0028,Ed Sheeran - Los Angeles,Lower Bowl,167.3,Vivid Seats,2024-11-15
+EVT_0028,Ed Sheeran - Los Angeles,Upper Bowl,105.95,Vivid Seats,2024-12-07
+EVT_0028,Ed Sheeran - Los Angeles,General Admission,113.68,Ticketmaster,2024-12-04
+EVT_0029,Kevin Hart - Miami,VIP,220.13,StubHub,2024-06-21
+EVT_0029,Kevin Hart - Miami,Floor,142.7,SeatGeek,2024-07-11
+EVT_0029,Kevin Hart - Miami,Lower Bowl,110.73,SeatGeek,2024-07-09
+EVT_0029,Kevin Hart - Miami,Upper Bowl,60.32,Vivid Seats,2024-07-13
+EVT_0029,Kevin Hart - Miami,General Admission,47.91,Vivid Seats,2024-06-27
+EVT_0030,Outside Lands - Seattle,VIP,402.08,SeatGeek,2024-04-26
+EVT_0030,Outside Lands - Seattle,Floor,313.49,StubHub,2024-04-22
+EVT_0030,Outside Lands - Seattle,Lower Bowl,184.1,StubHub,2024-04-17
+EVT_0030,Outside Lands - Seattle,Upper Bowl,116.51,StubHub,2024-04-28
+EVT_0030,Outside Lands - Seattle,General Admission,108.66,SeatGeek,2024-04-26
+EVT_0031,Coachella - New York,VIP,444.66,Ticketmaster,2024-11-28
+EVT_0031,Coachella - New York,Floor,375.56,SeatGeek,2024-11-30
+EVT_0031,Coachella - New York,Lower Bowl,236.64,Ticketmaster,2024-11-22
+EVT_0031,Coachella - New York,Upper Bowl,126.4,StubHub,2024-11-16
+EVT_0031,Coachella - New York,General Admission,131.1,SeatGeek,2024-11-19
+EVT_0032,Bonnaroo - Chicago,VIP,386.34,SeatGeek,2024-02-25
+EVT_0032,Bonnaroo - Chicago,Floor,305.28,Ticketmaster,2024-02-14
+EVT_0032,Bonnaroo - Chicago,Lower Bowl,180.24,SeatGeek,2024-01-28
+EVT_0032,Bonnaroo - Chicago,Upper Bowl,117.84,SeatGeek,2024-02-13
+EVT_0032,Bonnaroo - Chicago,General Admission,95.68,Ticketmaster,2024-02-01
+EVT_0033,Phantom of the Opera - Los Angeles,VIP,271.55,StubHub,2024-07-27
+EVT_0033,Phantom of the Opera - Los Angeles,Floor,186.72,Vivid Seats,2024-07-28
+EVT_0033,Phantom of the Opera - Los Angeles,Lower Bowl,148.5,Vivid Seats,2024-07-23
+EVT_0033,Phantom of the Opera - Los Angeles,Upper Bowl,63.38,Vivid Seats,2024-07-25
+EVT_0033,Phantom of the Opera - Los Angeles,General Admission,57.75,Vivid Seats,2024-08-19
+EVT_0034,The Weeknd - Chicago,VIP,308.45,Ticketmaster,2024-09-11
+EVT_0034,The Weeknd - Chicago,Floor,239.82,Vivid Seats,2024-09-08
+EVT_0034,The Weeknd - Chicago,Lower Bowl,169.97,Vivid Seats,2024-09-04
+EVT_0034,The Weeknd - Chicago,Upper Bowl,104.26,Vivid Seats,2024-08-30
+EVT_0034,The Weeknd - Chicago,General Admission,83.87,Vivid Seats,2024-09-03
+EVT_0035,Lakers vs Warriors - Chicago,VIP,317.74,StubHub,2024-11-02
+EVT_0035,Lakers vs Warriors - Chicago,Floor,185.02,StubHub,2024-10-30
+EVT_0035,Lakers vs Warriors - Chicago,Lower Bowl,148.85,Ticketmaster,2024-10-29
+EVT_0035,Lakers vs Warriors - Chicago,Upper Bowl,68.05,Vivid Seats,2024-11-20
+EVT_0035,Lakers vs Warriors - Chicago,General Admission,63.31,Ticketmaster,2024-11-16
+EVT_0036,Lollapalooza - Los Angeles,VIP,377.59,SeatGeek,2024-06-25
+EVT_0036,Lollapalooza - Los Angeles,Floor,317.46,Ticketmaster,2024-06-28
+EVT_0036,Lollapalooza - Los Angeles,Lower Bowl,173.3,StubHub,2024-07-03
+EVT_0036,Lollapalooza - Los Angeles,Upper Bowl,124.17,Ticketmaster,2024-06-25
+EVT_0036,Lollapalooza - Los Angeles,General Admission,110.95,SeatGeek,2024-06-24
+EVT_0037,Lakers vs Warriors - Seattle,VIP,237.84,SeatGeek,2024-06-13
+EVT_0037,Lakers vs Warriors - Seattle,Floor,169.99,Ticketmaster,2024-06-01
+EVT_0037,Lakers vs Warriors - Seattle,Lower Bowl,130.09,StubHub,2024-06-13
+EVT_0037,Lakers vs Warriors - Seattle,Upper Bowl,60.36,StubHub,2024-06-06
+EVT_0037,Lakers vs Warriors - Seattle,General Admission,58.48,StubHub,2024-05-29
+EVT_0038,Kevin Hart - New York,VIP,205.45,StubHub,2024-06-15
+EVT_0038,Kevin Hart - New York,Floor,135.27,StubHub,2024-06-09
+EVT_0038,Kevin Hart - New York,Lower Bowl,92.39,StubHub,2024-06-30
+EVT_0038,Kevin Hart - New York,Upper Bowl,49.74,SeatGeek,2024-06-06
+EVT_0038,Kevin Hart - New York,General Admission,48.34,Ticketmaster,2024-07-01
+EVT_0039,Wicked - New York,VIP,257.39,SeatGeek,2024-05-01
+EVT_0039,Wicked - New York,Floor,187.63,StubHub,2024-04-13
+EVT_0039,Wicked - New York,Lower Bowl,142.92,SeatGeek,2024-04-22
+EVT_0039,Wicked - New York,Upper Bowl,75.88,StubHub,2024-04-16
+EVT_0039,Wicked - New York,General Admission,61.54,SeatGeek,2024-04-12
+EVT_0040,Coachella - New York,VIP,401.86,Ticketmaster,2024-08-06
+EVT_0040,Coachella - New York,Floor,334.11,SeatGeek,2024-08-20
+EVT_0040,Coachella - New York,Lower Bowl,230.76,SeatGeek,2024-09-02
+EVT_0040,Coachella - New York,Upper Bowl,108.0,StubHub,2024-08-27
+EVT_0040,Coachella - New York,General Admission,113.02,Vivid Seats,2024-08-30
+EVT_0041,Coldplay - Los Angeles,VIP,395.44,StubHub,2024-02-24
+EVT_0041,Coldplay - Los Angeles,Floor,209.18,StubHub,2024-02-14
+EVT_0041,Coldplay - Los Angeles,Lower Bowl,151.61,Ticketmaster,2024-03-01
+EVT_0041,Coldplay - Los Angeles,Upper Bowl,86.53,StubHub,2024-02-22
+EVT_0041,Coldplay - Los Angeles,General Admission,92.35,Ticketmaster,2024-02-21
+EVT_0042,Dave Chappelle - Chicago,VIP,171.69,Ticketmaster,2024-09-16
+EVT_0042,Dave Chappelle - Chicago,Floor,113.11,Ticketmaster,2024-09-13
+EVT_0042,Dave Chappelle - Chicago,Lower Bowl,94.49,Ticketmaster,2024-09-21
+EVT_0042,Dave Chappelle - Chicago,Upper Bowl,45.06,SeatGeek,2024-08-29
+EVT_0042,Dave Chappelle - Chicago,General Admission,47.11,StubHub,2024-09-04
+EVT_0043,Outside Lands - Los Angeles,VIP,479.61,Ticketmaster,2024-09-18
+EVT_0043,Outside Lands - Los Angeles,Floor,350.12,StubHub,2024-10-01
+EVT_0043,Outside Lands - Los Angeles,Lower Bowl,194.54,Ticketmaster,2024-09-09
+EVT_0043,Outside Lands - Los Angeles,Upper Bowl,131.33,SeatGeek,2024-09-17
+EVT_0043,Outside Lands - Los Angeles,General Admission,101.86,SeatGeek,2024-09-30
+EVT_0044,Patriots vs Cowboys - Miami,VIP,264.19,SeatGeek,2024-11-30
+EVT_0044,Patriots vs Cowboys - Miami,Floor,159.31,SeatGeek,2024-11-15
+EVT_0044,Patriots vs Cowboys - Miami,Lower Bowl,102.07,Vivid Seats,2024-11-28
+EVT_0044,Patriots vs Cowboys - Miami,Upper Bowl,67.96,SeatGeek,2024-11-19
+EVT_0044,Patriots vs Cowboys - Miami,General Admission,49.74,Vivid Seats,2024-11-15
+EVT_0045,Phantom of the Opera - Seattle,VIP,309.57,SeatGeek,2024-07-31
+EVT_0045,Phantom of the Opera - Seattle,Floor,199.62,Ticketmaster,2024-08-02
+EVT_0045,Phantom of the Opera - Seattle,Lower Bowl,128.31,Vivid Seats,2024-08-10
+EVT_0045,Phantom of the Opera - Seattle,Upper Bowl,85.6,Vivid Seats,2024-07-22
+EVT_0045,Phantom of the Opera - Seattle,General Admission,62.55,Vivid Seats,2024-07-21
+EVT_0046,Ed Sheeran - Los Angeles,VIP,384.07,Vivid Seats,2024-01-27
+EVT_0046,Ed Sheeran - Los Angeles,Floor,261.64,SeatGeek,2024-01-25
+EVT_0046,Ed Sheeran - Los Angeles,Lower Bowl,184.05,SeatGeek,2024-01-31
+EVT_0046,Ed Sheeran - Los Angeles,Upper Bowl,109.11,StubHub,2024-01-15
+EVT_0046,Ed Sheeran - Los Angeles,General Admission,78.77,Ticketmaster,2024-01-17
+EVT_0047,Hamilton - Seattle,VIP,256.1,SeatGeek,2024-10-09
+EVT_0047,Hamilton - Seattle,Floor,202.49,Ticketmaster,2024-09-25
+EVT_0047,Hamilton - Seattle,Lower Bowl,113.85,Ticketmaster,2024-10-07
+EVT_0047,Hamilton - Seattle,Upper Bowl,73.8,SeatGeek,2024-10-03
+EVT_0047,Hamilton - Seattle,General Admission,60.46,StubHub,2024-10-01
+EVT_0048,Yankees vs Red Sox - New York,VIP,230.78,Ticketmaster,2024-01-13
+EVT_0048,Yankees vs Red Sox - New York,Floor,194.5,SeatGeek,2024-01-19
+EVT_0048,Yankees vs Red Sox - New York,Lower Bowl,96.96,StubHub,2024-01-27
+EVT_0048,Yankees vs Red Sox - New York,Upper Bowl,66.94,Ticketmaster,2024-01-31
+EVT_0048,Yankees vs Red Sox - New York,General Admission,51.09,Vivid Seats,2024-01-17
+EVT_0049,Ed Sheeran - New York,VIP,324.92,SeatGeek,2024-01-11
+EVT_0049,Ed Sheeran - New York,Floor,242.48,StubHub,2024-01-04
+EVT_0049,Ed Sheeran - New York,Lower Bowl,147.04,StubHub,2023-12-20
+EVT_0049,Ed Sheeran - New York,Upper Bowl,102.91,Ticketmaster,2023-12-25
+EVT_0049,Ed Sheeran - New York,General Admission,92.56,Vivid Seats,2024-01-02
+EVT_0050,Hamilton - Seattle,VIP,244.25,StubHub,2024-04-18
+EVT_0050,Hamilton - Seattle,Floor,179.79,Ticketmaster,2024-04-05
+EVT_0050,Hamilton - Seattle,Lower Bowl,124.28,Ticketmaster,2024-04-12
+EVT_0050,Hamilton - Seattle,Upper Bowl,80.84,Ticketmaster,2024-04-05
+EVT_0050,Hamilton - Seattle,General Admission,73.35,SeatGeek,2024-04-09
+EVT_0051,Phantom of the Opera - Los Angeles,VIP,278.41,Ticketmaster,2024-09-23
+EVT_0051,Phantom of the Opera - Los Angeles,Floor,176.47,StubHub,2024-10-02
+EVT_0051,Phantom of the Opera - Los Angeles,Lower Bowl,127.69,Vivid Seats,2024-09-04
+EVT_0051,Phantom of the Opera - Los Angeles,Upper Bowl,80.67,Ticketmaster,2024-09-30
+EVT_0051,Phantom of the Opera - Los Angeles,General Admission,74.98,Ticketmaster,2024-09-16
+EVT_0052,Real Madrid vs Barcelona - Los Angeles,VIP,203.11,Ticketmaster,2024-08-03
+EVT_0052,Real Madrid vs Barcelona - Los Angeles,Floor,168.74,StubHub,2024-08-05
+EVT_0052,Real Madrid vs Barcelona - Los Angeles,Lower Bowl,121.36,Vivid Seats,2024-08-12
+EVT_0052,Real Madrid vs Barcelona - Los Angeles,Upper Bowl,71.09,Ticketmaster,2024-08-18
+EVT_0052,Real Madrid vs Barcelona - Los Angeles,General Admission,49.04,Ticketmaster,2024-08-10
+EVT_0053,Dave Chappelle - New York,VIP,202.8,Vivid Seats,2024-02-16
+EVT_0053,Dave Chappelle - New York,Floor,129.82,StubHub,2024-01-25
+EVT_0053,Dave Chappelle - New York,Lower Bowl,79.55,SeatGeek,2024-02-09
+EVT_0053,Dave Chappelle - New York,Upper Bowl,57.04,SeatGeek,2024-01-24
+EVT_0053,Dave Chappelle - New York,General Admission,46.17,SeatGeek,2024-02-18
+EVT_0054,John Mulaney - Miami,VIP,195.85,Vivid Seats,2024-07-25
+EVT_0054,John Mulaney - Miami,Floor,150.58,StubHub,2024-07-17
+EVT_0054,John Mulaney - Miami,Lower Bowl,95.93,Vivid Seats,2024-07-01
+EVT_0054,John Mulaney - Miami,Upper Bowl,48.49,StubHub,2024-07-02
+EVT_0054,John Mulaney - Miami,General Admission,47.3,Ticketmaster,2024-07-12
+EVT_0055,Kevin Hart - New York,VIP,191.53,Vivid Seats,2024-01-30
+EVT_0055,Kevin Hart - New York,Floor,110.66,Vivid Seats,2024-01-03
+EVT_0055,Kevin Hart - New York,Lower Bowl,80.94,Ticketmaster,2024-01-03
+EVT_0055,Kevin Hart - New York,Upper Bowl,51.96,StubHub,2024-01-28
+EVT_0055,Kevin Hart - New York,General Admission,46.2,StubHub,2024-01-13
+EVT_0056,John Mulaney - New York,VIP,195.88,Vivid Seats,2024-04-27
+EVT_0056,John Mulaney - New York,Floor,151.9,Vivid Seats,2024-04-19
+EVT_0056,John Mulaney - New York,Lower Bowl,94.14,Vivid Seats,2024-04-27
+EVT_0056,John Mulaney - New York,Upper Bowl,44.26,SeatGeek,2024-05-01
+EVT_0056,John Mulaney - New York,General Admission,39.61,Ticketmaster,2024-04-25
+EVT_0057,Yankees vs Red Sox - Seattle,VIP,318.03,SeatGeek,2024-07-31
+EVT_0057,Yankees vs Red Sox - Seattle,Floor,204.03,Vivid Seats,2024-07-30
+EVT_0057,Yankees vs Red Sox - Seattle,Lower Bowl,120.47,StubHub,2024-07-30
+EVT_0057,Yankees vs Red Sox - Seattle,Upper Bowl,80.11,StubHub,2024-07-30
+EVT_0057,Yankees vs Red Sox - Seattle,General Admission,62.01,Vivid Seats,2024-08-01
+EVT_0058,Real Madrid vs Barcelona - Los Angeles,VIP,229.8,SeatGeek,2024-05-18
+EVT_0058,Real Madrid vs Barcelona - Los Angeles,Floor,189.49,Ticketmaster,2024-05-16
+EVT_0058,Real Madrid vs Barcelona - Los Angeles,Lower Bowl,107.71,SeatGeek,2024-04-22
+EVT_0058,Real Madrid vs Barcelona - Los Angeles,Upper Bowl,61.86,SeatGeek,2024-05-15
+EVT_0058,Real Madrid vs Barcelona - Los Angeles,General Admission,63.01,Ticketmaster,2024-05-19
+EVT_0059,Dave Chappelle - New York,VIP,167.13,StubHub,2024-07-24
+EVT_0059,Dave Chappelle - New York,Floor,126.07,StubHub,2024-07-19
+EVT_0059,Dave Chappelle - New York,Lower Bowl,79.77,SeatGeek,2024-08-09
+EVT_0059,Dave Chappelle - New York,Upper Bowl,50.08,SeatGeek,2024-08-11
+EVT_0059,Dave Chappelle - New York,General Admission,47.78,Vivid Seats,2024-07-23
+EVT_0060,Coachella - New York,VIP,464.57,Vivid Seats,2024-11-04
+EVT_0060,Coachella - New York,Floor,327.29,SeatGeek,2024-11-13
+EVT_0060,Coachella - New York,Lower Bowl,181.28,Ticketmaster,2024-11-21
+EVT_0060,Coachella - New York,Upper Bowl,100.67,Ticketmaster,2024-11-16
+EVT_0060,Coachella - New York,General Admission,121.88,SeatGeek,2024-11-25
+EVT_0061,Coachella - New York,VIP,457.53,StubHub,2024-04-17
+EVT_0061,Coachella - New York,Floor,288.63,Ticketmaster,2024-04-30
+EVT_0061,Coachella - New York,Lower Bowl,183.25,SeatGeek,2024-04-11
+EVT_0061,Coachella - New York,Upper Bowl,122.79,StubHub,2024-04-09
+EVT_0061,Coachella - New York,General Admission,91.17,StubHub,2024-04-22
+EVT_0062,Real Madrid vs Barcelona - Miami,VIP,278.02,Vivid Seats,2024-08-21
+EVT_0062,Real Madrid vs Barcelona - Miami,Floor,186.15,Ticketmaster,2024-08-17
+EVT_0062,Real Madrid vs Barcelona - Miami,Lower Bowl,113.46,StubHub,2024-08-05
+EVT_0062,Real Madrid vs Barcelona - Miami,Upper Bowl,63.85,StubHub,2024-08-15
+EVT_0062,Real Madrid vs Barcelona - Miami,General Admission,62.73,Ticketmaster,2024-08-26
+EVT_0063,Real Madrid vs Barcelona - New York,VIP,252.92,SeatGeek,2024-03-20
+EVT_0063,Real Madrid vs Barcelona - New York,Floor,173.48,StubHub,2024-03-13
+EVT_0063,Real Madrid vs Barcelona - New York,Lower Bowl,99.75,StubHub,2024-02-26
+EVT_0063,Real Madrid vs Barcelona - New York,Upper Bowl,70.33,Vivid Seats,2024-03-21
+EVT_0063,Real Madrid vs Barcelona - New York,General Admission,58.21,Ticketmaster,2024-03-03
+EVT_0064,Kevin Hart - Miami,VIP,176.37,Ticketmaster,2024-04-29
+EVT_0064,Kevin Hart - Miami,Floor,125.56,Ticketmaster,2024-05-06
+EVT_0064,Kevin Hart - Miami,Lower Bowl,94.2,StubHub,2024-04-16
+EVT_0064,Kevin Hart - Miami,Upper Bowl,56.46,Vivid Seats,2024-05-07
+EVT_0064,Kevin Hart - Miami,General Admission,40.93,SeatGeek,2024-04-21
+EVT_0065,John Mulaney - Miami,VIP,242.21,SeatGeek,2024-12-15
+EVT_0065,John Mulaney - Miami,Floor,158.62,Vivid Seats,2024-12-10
+EVT_0065,John Mulaney - Miami,Lower Bowl,90.69,Ticketmaster,2024-12-14
+EVT_0065,John Mulaney - Miami,Upper Bowl,62.49,Vivid Seats,2024-12-20
+EVT_0065,John Mulaney - Miami,General Admission,45.84,StubHub,2024-12-16
+EVT_0066,Outside Lands - Los Angeles,VIP,469.54,SeatGeek,2024-04-05
+EVT_0066,Outside Lands - Los Angeles,Floor,370.37,Vivid Seats,2024-03-13
+EVT_0066,Outside Lands - Los Angeles,Lower Bowl,259.6,StubHub,2024-03-20
+EVT_0066,Outside Lands - Los Angeles,Upper Bowl,153.64,SeatGeek,2024-03-30
+EVT_0066,Outside Lands - Los Angeles,General Admission,125.92,StubHub,2024-03-17
+EVT_0067,Wicked - New York,VIP,234.8,SeatGeek,2024-09-28
+EVT_0067,Wicked - New York,Floor,166.85,SeatGeek,2024-09-29
+EVT_0067,Wicked - New York,Lower Bowl,116.41,StubHub,2024-10-14
+EVT_0067,Wicked - New York,Upper Bowl,65.5,Vivid Seats,2024-10-11
+EVT_0067,Wicked - New York,General Admission,55.72,Vivid Seats,2024-09-30
+EVT_0068,Coachella - Chicago,VIP,447.05,Ticketmaster,2024-01-29
+EVT_0068,Coachella - Chicago,Floor,315.74,Vivid Seats,2024-01-17
+EVT_0068,Coachella - Chicago,Lower Bowl,188.95,Ticketmaster,2024-01-10
+EVT_0068,Coachella - Chicago,Upper Bowl,116.45,Ticketmaster,2024-01-07
+EVT_0068,Coachella - Chicago,General Admission,93.32,Vivid Seats,2024-01-19
+EVT_0069,Coldplay - Miami,VIP,394.73,Vivid Seats,2024-09-10
+EVT_0069,Coldplay - Miami,Floor,339.34,StubHub,2024-08-18
+EVT_0069,Coldplay - Miami,Lower Bowl,176.26,SeatGeek,2024-09-06
+EVT_0069,Coldplay - Miami,Upper Bowl,101.87,Vivid Seats,2024-09-12
+EVT_0069,Coldplay - Miami,General Admission,86.72,SeatGeek,2024-09-09
+EVT_0070,Lollapalooza - New York,VIP,439.63,Vivid Seats,2024-09-14
+EVT_0070,Lollapalooza - New York,Floor,285.45,Ticketmaster,2024-08-29
+EVT_0070,Lollapalooza - New York,Lower Bowl,177.81,Vivid Seats,2024-09-05
+EVT_0070,Lollapalooza - New York,Upper Bowl,107.68,Vivid Seats,2024-08-29
+EVT_0070,Lollapalooza - New York,General Admission,98.36,SeatGeek,2024-08-25
+EVT_0071,Ed Sheeran - New York,VIP,378.75,StubHub,2024-10-25
+EVT_0071,Ed Sheeran - New York,Floor,245.16,Vivid Seats,2024-10-30
+EVT_0071,Ed Sheeran - New York,Lower Bowl,144.06,Ticketmaster,2024-10-03
+EVT_0071,Ed Sheeran - New York,Upper Bowl,101.64,Ticketmaster,2024-10-17
+EVT_0071,Ed Sheeran - New York,General Admission,73.4,SeatGeek,2024-10-26
+EVT_0072,The Weeknd - Los Angeles,VIP,350.34,SeatGeek,2024-06-26
+EVT_0072,The Weeknd - Los Angeles,Floor,278.3,SeatGeek,2024-06-25
+EVT_0072,The Weeknd - Los Angeles,Lower Bowl,161.99,Vivid Seats,2024-07-23
+EVT_0072,The Weeknd - Los Angeles,Upper Bowl,88.63,StubHub,2024-06-29
+EVT_0072,The Weeknd - Los Angeles,General Admission,74.42,SeatGeek,2024-07-04
+EVT_0073,Coldplay - Los Angeles,VIP,317.86,Ticketmaster,2024-10-10
+EVT_0073,Coldplay - Los Angeles,Floor,248.4,SeatGeek,2024-10-19
+EVT_0073,Coldplay - Los Angeles,Lower Bowl,166.68,Ticketmaster,2024-10-13
+EVT_0073,Coldplay - Los Angeles,Upper Bowl,86.46,SeatGeek,2024-10-09
+EVT_0073,Coldplay - Los Angeles,General Admission,84.65,Ticketmaster,2024-09-25
+EVT_0074,Coachella - Seattle,VIP,517.01,StubHub,2024-01-18
+EVT_0074,Coachella - Seattle,Floor,393.31,Vivid Seats,2024-01-31
+EVT_0074,Coachella - Seattle,Lower Bowl,263.52,Ticketmaster,2024-01-31
+EVT_0074,Coachella - Seattle,Upper Bowl,123.25,Ticketmaster,2024-01-26
+EVT_0074,Coachella - Seattle,General Admission,122.43,Vivid Seats,2024-01-14
+EVT_0075,John Mulaney - Chicago,VIP,244.12,SeatGeek,2024-04-13
+EVT_0075,John Mulaney - Chicago,Floor,166.74,Ticketmaster,2024-04-01
+EVT_0075,John Mulaney - Chicago,Lower Bowl,104.09,SeatGeek,2024-04-07
+EVT_0075,John Mulaney - Chicago,Upper Bowl,66.84,SeatGeek,2024-04-05
+EVT_0075,John Mulaney - Chicago,General Admission,48.16,Vivid Seats,2024-03-24
+EVT_0076,Wicked - Chicago,VIP,332.63,Ticketmaster,2024-06-29
+EVT_0076,Wicked - Chicago,Floor,204.83,SeatGeek,2024-07-13
+EVT_0076,Wicked - Chicago,Lower Bowl,176.01,SeatGeek,2024-07-13
+EVT_0076,Wicked - Chicago,Upper Bowl,78.3,StubHub,2024-07-04
+EVT_0076,Wicked - Chicago,General Admission,82.65,Vivid Seats,2024-07-18
+EVT_0077,Patriots vs Cowboys - Miami,VIP,207.54,Vivid Seats,2024-05-18
+EVT_0077,Patriots vs Cowboys - Miami,Floor,147.14,Ticketmaster,2024-05-17
+EVT_0077,Patriots vs Cowboys - Miami,Lower Bowl,129.9,Ticketmaster,2024-05-13
+EVT_0077,Patriots vs Cowboys - Miami,Upper Bowl,69.85,Ticketmaster,2024-06-07
+EVT_0077,Patriots vs Cowboys - Miami,General Admission,58.98,Ticketmaster,2024-05-25
+EVT_0078,Taylor Swift - Miami,VIP,354.97,StubHub,2024-11-06
+EVT_0078,Taylor Swift - Miami,Floor,207.7,SeatGeek,2024-10-17
+EVT_0078,Taylor Swift - Miami,Lower Bowl,145.24,Ticketmaster,2024-10-23
+EVT_0078,Taylor Swift - Miami,Upper Bowl,104.17,Ticketmaster,2024-10-27
+EVT_0078,Taylor Swift - Miami,General Admission,92.71,StubHub,2024-10-25
+EVT_0079,Coachella - New York,VIP,435.67,StubHub,2024-09-16
+EVT_0079,Coachella - New York,Floor,352.77,Ticketmaster,2024-09-15
+EVT_0079,Coachella - New York,Lower Bowl,223.12,Ticketmaster,2024-09-19
+EVT_0079,Coachella - New York,Upper Bowl,107.42,SeatGeek,2024-10-01
+EVT_0079,Coachella - New York,General Admission,104.91,Ticketmaster,2024-09-14
+EVT_0080,Patriots vs Cowboys - Los Angeles,VIP,269.17,Ticketmaster,2024-06-12
+EVT_0080,Patriots vs Cowboys - Los Angeles,Floor,171.73,Ticketmaster,2024-06-02
+EVT_0080,Patriots vs Cowboys - Los Angeles,Lower Bowl,118.52,StubHub,2024-06-19
+EVT_0080,Patriots vs Cowboys - Los Angeles,Upper Bowl,64.93,SeatGeek,2024-06-01
+EVT_0080,Patriots vs Cowboys - Los Angeles,General Admission,51.23,SeatGeek,2024-06-12
+EVT_0081,Ed Sheeran - Chicago,VIP,373.36,Vivid Seats,2024-05-16
+EVT_0081,Ed Sheeran - Chicago,Floor,329.6,Vivid Seats,2024-04-29
+EVT_0081,Ed Sheeran - Chicago,Lower Bowl,169.98,StubHub,2024-05-20
+EVT_0081,Ed Sheeran - Chicago,Upper Bowl,127.7,Ticketmaster,2024-05-19
+EVT_0081,Ed Sheeran - Chicago,General Admission,106.97,Ticketmaster,2024-05-16
+EVT_0082,Real Madrid vs Barcelona - Seattle,VIP,220.89,SeatGeek,2024-12-14
+EVT_0082,Real Madrid vs Barcelona - Seattle,Floor,177.03,StubHub,2024-12-01
+EVT_0082,Real Madrid vs Barcelona - Seattle,Lower Bowl,129.25,SeatGeek,2024-12-01
+EVT_0082,Real Madrid vs Barcelona - Seattle,Upper Bowl,75.0,SeatGeek,2024-12-09
+EVT_0082,Real Madrid vs Barcelona - Seattle,General Admission,50.06,SeatGeek,2024-12-18
+EVT_0083,Hamilton - Seattle,VIP,362.41,SeatGeek,2024-05-17
+EVT_0083,Hamilton - Seattle,Floor,264.7,StubHub,2024-05-03
+EVT_0083,Hamilton - Seattle,Lower Bowl,161.04,Vivid Seats,2024-05-15
+EVT_0083,Hamilton - Seattle,Upper Bowl,99.65,Ticketmaster,2024-05-04
+EVT_0083,Hamilton - Seattle,General Admission,83.32,Ticketmaster,2024-05-07
+EVT_0084,Ed Sheeran - Chicago,VIP,387.13,Vivid Seats,2024-02-23
+EVT_0084,Ed Sheeran - Chicago,Floor,270.71,Vivid Seats,2024-02-01
+EVT_0084,Ed Sheeran - Chicago,Lower Bowl,163.46,StubHub,2024-02-04
+EVT_0084,Ed Sheeran - Chicago,Upper Bowl,93.56,SeatGeek,2024-02-09
+EVT_0084,Ed Sheeran - Chicago,General Admission,72.48,Vivid Seats,2024-02-03
+EVT_0085,The Weeknd - Seattle,VIP,366.21,Ticketmaster,2024-02-21
+EVT_0085,The Weeknd - Seattle,Floor,250.23,StubHub,2024-03-14
+EVT_0085,The Weeknd - Seattle,Lower Bowl,181.67,Vivid Seats,2024-03-19
+EVT_0085,The Weeknd - Seattle,Upper Bowl,108.44,SeatGeek,2024-03-03
+EVT_0085,The Weeknd - Seattle,General Admission,90.56,SeatGeek,2024-02-22
+EVT_0086,Lion King - Seattle,VIP,293.16,SeatGeek,2024-03-24
+EVT_0086,Lion King - Seattle,Floor,178.4,StubHub,2024-04-08
+EVT_0086,Lion King - Seattle,Lower Bowl,132.01,StubHub,2024-04-04
+EVT_0086,Lion King - Seattle,Upper Bowl,75.32,Vivid Seats,2024-04-03
+EVT_0086,Lion King - Seattle,General Admission,70.75,Ticketmaster,2024-04-15
+EVT_0087,Wicked - Chicago,VIP,292.85,SeatGeek,2024-08-25
+EVT_0087,Wicked - Chicago,Floor,237.14,SeatGeek,2024-08-18
+EVT_0087,Wicked - Chicago,Lower Bowl,150.39,StubHub,2024-08-27
+EVT_0087,Wicked - Chicago,Upper Bowl,97.92,Ticketmaster,2024-08-31
+EVT_0087,Wicked - Chicago,General Admission,83.13,Ticketmaster,2024-09-14
+EVT_0088,John Mulaney - New York,VIP,248.68,SeatGeek,2024-02-06
+EVT_0088,John Mulaney - New York,Floor,154.59,SeatGeek,2024-01-28
+EVT_0088,John Mulaney - New York,Lower Bowl,96.77,SeatGeek,2024-01-20
+EVT_0088,John Mulaney - New York,Upper Bowl,55.27,StubHub,2024-01-24
+EVT_0088,John Mulaney - New York,General Admission,50.46,Ticketmaster,2024-02-13
+EVT_0089,John Mulaney - New York,VIP,175.01,Ticketmaster,2023-12-13
+EVT_0089,John Mulaney - New York,Floor,137.6,StubHub,2024-01-01
+EVT_0089,John Mulaney - New York,Lower Bowl,96.17,StubHub,2023-12-03
+EVT_0089,John Mulaney - New York,Upper Bowl,45.46,Vivid Seats,2023-12-18
+EVT_0089,John Mulaney - New York,General Admission,51.05,SeatGeek,2023-12-31
+EVT_0090,Wicked - Chicago,VIP,310.48,Vivid Seats,2024-03-14
+EVT_0090,Wicked - Chicago,Floor,259.17,Ticketmaster,2024-02-23
+EVT_0090,Wicked - Chicago,Lower Bowl,172.55,SeatGeek,2024-03-18
+EVT_0090,Wicked - Chicago,Upper Bowl,99.76,Ticketmaster,2024-03-20
+EVT_0090,Wicked - Chicago,General Admission,83.78,Vivid Seats,2024-03-12
+EVT_0091,Ali Wong - Seattle,VIP,198.28,StubHub,2023-12-29
+EVT_0091,Ali Wong - Seattle,Floor,137.36,StubHub,2024-01-01
+EVT_0091,Ali Wong - Seattle,Lower Bowl,83.64,SeatGeek,2023-12-10
+EVT_0091,Ali Wong - Seattle,Upper Bowl,52.86,Ticketmaster,2023-12-19
+EVT_0091,Ali Wong - Seattle,General Admission,46.03,SeatGeek,2023-12-12
+EVT_0092,Taylor Swift - Los Angeles,VIP,450.39,SeatGeek,2024-09-09
+EVT_0092,Taylor Swift - Los Angeles,Floor,310.81,Vivid Seats,2024-09-28
+EVT_0092,Taylor Swift - Los Angeles,Lower Bowl,194.9,Vivid Seats,2024-09-29
+EVT_0092,Taylor Swift - Los Angeles,Upper Bowl,113.59,Vivid Seats,2024-09-28
+EVT_0092,Taylor Swift - Los Angeles,General Admission,92.49,StubHub,2024-09-11
+EVT_0093,Beyonce - Seattle,VIP,376.86,SeatGeek,2024-09-29
+EVT_0093,Beyonce - Seattle,Floor,226.84,SeatGeek,2024-10-02
+EVT_0093,Beyonce - Seattle,Lower Bowl,157.36,SeatGeek,2024-09-16
+EVT_0093,Beyonce - Seattle,Upper Bowl,103.59,SeatGeek,2024-09-29
+EVT_0093,Beyonce - Seattle,General Admission,83.55,Vivid Seats,2024-10-08
+EVT_0094,Real Madrid vs Barcelona - Los Angeles,VIP,232.37,SeatGeek,2024-01-01
+EVT_0094,Real Madrid vs Barcelona - Los Angeles,Floor,198.33,SeatGeek,2023-12-25
+EVT_0094,Real Madrid vs Barcelona - Los Angeles,Lower Bowl,114.09,SeatGeek,2024-01-02
+EVT_0094,Real Madrid vs Barcelona - Los Angeles,Upper Bowl,66.42,StubHub,2024-01-18
+EVT_0094,Real Madrid vs Barcelona - Los Angeles,General Admission,53.41,SeatGeek,2024-01-02
+EVT_0095,Lion King - New York,VIP,298.9,SeatGeek,2024-07-01
+EVT_0095,Lion King - New York,Floor,165.44,StubHub,2024-06-30
+EVT_0095,Lion King - New York,Lower Bowl,136.84,Ticketmaster,2024-06-27
+EVT_0095,Lion King - New York,Upper Bowl,69.75,SeatGeek,2024-06-19
+EVT_0095,Lion King - New York,General Admission,70.59,SeatGeek,2024-06-04
+EVT_0096,Yankees vs Red Sox - New York,VIP,276.02,Ticketmaster,2024-06-25
+EVT_0096,Yankees vs Red Sox - New York,Floor,215.3,Vivid Seats,2024-06-29
+EVT_0096,Yankees vs Red Sox - New York,Lower Bowl,131.35,Vivid Seats,2024-06-09
+EVT_0096,Yankees vs Red Sox - New York,Upper Bowl,93.0,SeatGeek,2024-06-25
+EVT_0096,Yankees vs Red Sox - New York,General Admission,71.96,Vivid Seats,2024-06-08
+EVT_0097,Outside Lands - Seattle,VIP,417.84,Ticketmaster,2024-03-10
+EVT_0097,Outside Lands - Seattle,Floor,313.37,SeatGeek,2024-02-27
+EVT_0097,Outside Lands - Seattle,Lower Bowl,185.31,StubHub,2024-02-22
+EVT_0097,Outside Lands - Seattle,Upper Bowl,115.53,Ticketmaster,2024-02-22
+EVT_0097,Outside Lands - Seattle,General Admission,102.65,Vivid Seats,2024-03-05
+EVT_0098,Yankees vs Red Sox - Los Angeles,VIP,219.18,SeatGeek,2024-07-01
+EVT_0098,Yankees vs Red Sox - Los Angeles,Floor,169.07,StubHub,2024-07-22
+EVT_0098,Yankees vs Red Sox - Los Angeles,Lower Bowl,99.56,SeatGeek,2024-07-16
+EVT_0098,Yankees vs Red Sox - Los Angeles,Upper Bowl,57.97,StubHub,2024-07-13
+EVT_0098,Yankees vs Red Sox - Los Angeles,General Admission,53.74,SeatGeek,2024-07-10
+EVT_0099,Ed Sheeran - Chicago,VIP,318.7,SeatGeek,2024-06-30
+EVT_0099,Ed Sheeran - Chicago,Floor,263.01,StubHub,2024-07-09
+EVT_0099,Ed Sheeran - Chicago,Lower Bowl,168.08,Vivid Seats,2024-07-10
+EVT_0099,Ed Sheeran - Chicago,Upper Bowl,86.04,SeatGeek,2024-07-09
+EVT_0099,Ed Sheeran - Chicago,General Admission,78.28,Ticketmaster,2024-07-27
+EVT_0100,Patriots vs Cowboys - Los Angeles,VIP,280.72,StubHub,2024-12-14
+EVT_0100,Patriots vs Cowboys - Los Angeles,Floor,142.14,Ticketmaster,2024-12-12
+EVT_0100,Patriots vs Cowboys - Los Angeles,Lower Bowl,126.11,Vivid Seats,2024-12-17
+EVT_0100,Patriots vs Cowboys - Los Angeles,Upper Bowl,64.11,Ticketmaster,2024-12-20
+EVT_0100,Patriots vs Cowboys - Los Angeles,General Admission,60.82,Vivid Seats,2024-12-09
+EVT_0101,Drake - New York,VIP,396.63,Vivid Seats,2024-08-13
+EVT_0101,Drake - New York,Floor,227.4,Vivid Seats,2024-08-04
+EVT_0101,Drake - New York,Lower Bowl,149.28,StubHub,2024-08-25
+EVT_0101,Drake - New York,Upper Bowl,94.86,Ticketmaster,2024-08-05
+EVT_0101,Drake - New York,General Admission,89.55,StubHub,2024-08-23
+EVT_0102,Yankees vs Red Sox - Miami,VIP,245.73,Vivid Seats,2024-06-24
+EVT_0102,Yankees vs Red Sox - Miami,Floor,164.8,SeatGeek,2024-06-13
+EVT_0102,Yankees vs Red Sox - Miami,Lower Bowl,126.04,Vivid Seats,2024-06-19
+EVT_0102,Yankees vs Red Sox - Miami,Upper Bowl,57.48,StubHub,2024-06-15
+EVT_0102,Yankees vs Red Sox - Miami,General Admission,53.4,Ticketmaster,2024-06-16
+EVT_0103,Wicked - Los Angeles,VIP,311.88,SeatGeek,2024-01-12
+EVT_0103,Wicked - Los Angeles,Floor,264.1,SeatGeek,2024-01-03
+EVT_0103,Wicked - Los Angeles,Lower Bowl,168.3,StubHub,2024-01-07
+EVT_0103,Wicked - Los Angeles,Upper Bowl,89.2,StubHub,2023-12-14
+EVT_0103,Wicked - Los Angeles,General Admission,85.73,Ticketmaster,2024-01-01
+EVT_0104,Real Madrid vs Barcelona - Chicago,VIP,262.51,SeatGeek,2024-05-07
+EVT_0104,Real Madrid vs Barcelona - Chicago,Floor,183.73,Ticketmaster,2024-04-27
+EVT_0104,Real Madrid vs Barcelona - Chicago,Lower Bowl,102.33,StubHub,2024-05-04
+EVT_0104,Real Madrid vs Barcelona - Chicago,Upper Bowl,63.03,StubHub,2024-04-29
+EVT_0104,Real Madrid vs Barcelona - Chicago,General Admission,59.77,Vivid Seats,2024-04-29
+EVT_0105,Beyonce - Chicago,VIP,350.26,SeatGeek,2024-10-27
+EVT_0105,Beyonce - Chicago,Floor,301.38,Vivid Seats,2024-11-20
+EVT_0105,Beyonce - Chicago,Lower Bowl,222.03,SeatGeek,2024-11-20
+EVT_0105,Beyonce - Chicago,Upper Bowl,129.98,Vivid Seats,2024-11-05
+EVT_0105,Beyonce - Chicago,General Admission,104.43,SeatGeek,2024-11-16
+EVT_0106,Outside Lands - Seattle,VIP,405.23,StubHub,2024-06-13
+EVT_0106,Outside Lands - Seattle,Floor,273.39,Ticketmaster,2024-06-13
+EVT_0106,Outside Lands - Seattle,Lower Bowl,175.73,StubHub,2024-05-20
+EVT_0106,Outside Lands - Seattle,Upper Bowl,120.56,SeatGeek,2024-05-19
+EVT_0106,Outside Lands - Seattle,General Admission,113.81,Ticketmaster,2024-06-06
+EVT_0107,Taylor Swift - Chicago,VIP,347.27,SeatGeek,2024-03-19
+EVT_0107,Taylor Swift - Chicago,Floor,259.73,StubHub,2024-03-02
+EVT_0107,Taylor Swift - Chicago,Lower Bowl,149.96,StubHub,2024-03-13
+EVT_0107,Taylor Swift - Chicago,Upper Bowl,90.0,Ticketmaster,2024-03-31
+EVT_0107,Taylor Swift - Chicago,General Admission,76.98,StubHub,2024-03-11
+EVT_0108,Bonnaroo - New York,VIP,545.16,SeatGeek,2024-02-19
+EVT_0108,Bonnaroo - New York,Floor,387.67,SeatGeek,2024-02-08
+EVT_0108,Bonnaroo - New York,Lower Bowl,239.65,Vivid Seats,2024-01-27
+EVT_0108,Bonnaroo - New York,Upper Bowl,159.08,SeatGeek,2024-02-13
+EVT_0108,Bonnaroo - New York,General Admission,127.42,Vivid Seats,2024-02-21
+EVT_0109,Outside Lands - Chicago,VIP,486.54,Vivid Seats,2024-06-05
+EVT_0109,Outside Lands - Chicago,Floor,340.98,StubHub,2024-06-06
+EVT_0109,Outside Lands - Chicago,Lower Bowl,284.35,SeatGeek,2024-05-24
+EVT_0109,Outside Lands - Chicago,Upper Bowl,159.66,Vivid Seats,2024-06-02
+EVT_0109,Outside Lands - Chicago,General Admission,104.51,SeatGeek,2024-05-14
+EVT_0110,Kevin Hart - Miami,VIP,172.81,Ticketmaster,2024-10-16
+EVT_0110,Kevin Hart - Miami,Floor,138.15,Vivid Seats,2024-10-19
+EVT_0110,Kevin Hart - Miami,Lower Bowl,98.32,StubHub,2024-10-09
+EVT_0110,Kevin Hart - Miami,Upper Bowl,49.96,Vivid Seats,2024-09-23
+EVT_0110,Kevin Hart - Miami,General Admission,41.86,Ticketmaster,2024-10-16
+EVT_0111,Patriots vs Cowboys - New York,VIP,289.01,Ticketmaster,2024-12-03
+EVT_0111,Patriots vs Cowboys - New York,Floor,206.79,Vivid Seats,2024-12-23
+EVT_0111,Patriots vs Cowboys - New York,Lower Bowl,118.7,StubHub,2024-11-30
+EVT_0111,Patriots vs Cowboys - New York,Upper Bowl,72.68,SeatGeek,2024-12-05
+EVT_0111,Patriots vs Cowboys - New York,General Admission,80.08,SeatGeek,2024-12-18
+EVT_0112,Kevin Hart - Seattle,VIP,157.66,Ticketmaster,2024-09-03
+EVT_0112,Kevin Hart - Seattle,Floor,122.34,Ticketmaster,2024-09-10
+EVT_0112,Kevin Hart - Seattle,Lower Bowl,85.49,SeatGeek,2024-09-11
+EVT_0112,Kevin Hart - Seattle,Upper Bowl,56.63,SeatGeek,2024-09-06
+EVT_0112,Kevin Hart - Seattle,General Admission,40.8,Vivid Seats,2024-09-16
+EVT_0113,Patriots vs Cowboys - Miami,VIP,256.2,SeatGeek,2024-01-28
+EVT_0113,Patriots vs Cowboys - Miami,Floor,168.44,SeatGeek,2024-01-11
+EVT_0113,Patriots vs Cowboys - Miami,Lower Bowl,130.06,Vivid Seats,2024-01-27
+EVT_0113,Patriots vs Cowboys - Miami,Upper Bowl,60.79,StubHub,2024-01-11
+EVT_0113,Patriots vs Cowboys - Miami,General Admission,49.71,Ticketmaster,2024-01-16
+EVT_0114,Lion King - New York,VIP,340.55,Ticketmaster,2024-05-19
+EVT_0114,Lion King - New York,Floor,238.6,StubHub,2024-05-11
+EVT_0114,Lion King - New York,Lower Bowl,151.92,SeatGeek,2024-05-21
+EVT_0114,Lion King - New York,Upper Bowl,90.3,SeatGeek,2024-05-28
+EVT_0114,Lion King - New York,General Admission,89.11,Vivid Seats,2024-05-25
+EVT_0115,Bonnaroo - Miami,VIP,512.3,StubHub,2024-06-02
+EVT_0115,Bonnaroo - Miami,Floor,380.8,SeatGeek,2024-06-14
+EVT_0115,Bonnaroo - Miami,Lower Bowl,267.13,SeatGeek,2024-06-02
+EVT_0115,Bonnaroo - Miami,Upper Bowl,148.51,Ticketmaster,2024-06-14
+EVT_0115,Bonnaroo - Miami,General Admission,129.67,Vivid Seats,2024-06-09
+EVT_0116,John Mulaney - Seattle,VIP,202.82,Ticketmaster,2024-02-05
+EVT_0116,John Mulaney - Seattle,Floor,147.86,SeatGeek,2024-02-10
+EVT_0116,John Mulaney - Seattle,Lower Bowl,101.05,Vivid Seats,2024-02-05
+EVT_0116,John Mulaney - Seattle,Upper Bowl,49.56,Ticketmaster,2024-02-12
+EVT_0116,John Mulaney - Seattle,General Admission,49.19,SeatGeek,2024-02-28
+EVT_0117,Real Madrid vs Barcelona - Miami,VIP,272.81,Vivid Seats,2024-11-13
+EVT_0117,Real Madrid vs Barcelona - Miami,Floor,186.77,Ticketmaster,2024-11-15
+EVT_0117,Real Madrid vs Barcelona - Miami,Lower Bowl,96.56,Ticketmaster,2024-11-16
+EVT_0117,Real Madrid vs Barcelona - Miami,Upper Bowl,57.8,Ticketmaster,2024-11-21
+EVT_0117,Real Madrid vs Barcelona - Miami,General Admission,66.15,Ticketmaster,2024-11-21
+EVT_0118,Patriots vs Cowboys - Miami,VIP,220.66,StubHub,2024-09-17
+EVT_0118,Patriots vs Cowboys - Miami,Floor,175.31,Ticketmaster,2024-09-11
+EVT_0118,Patriots vs Cowboys - Miami,Lower Bowl,125.84,Vivid Seats,2024-09-18
+EVT_0118,Patriots vs Cowboys - Miami,Upper Bowl,61.73,Vivid Seats,2024-09-11
+EVT_0118,Patriots vs Cowboys - Miami,General Admission,54.82,Ticketmaster,2024-09-26
+EVT_0119,Beyonce - Chicago,VIP,358.35,Ticketmaster,2024-03-21
+EVT_0119,Beyonce - Chicago,Floor,269.24,Ticketmaster,2024-04-11
+EVT_0119,Beyonce - Chicago,Lower Bowl,182.05,StubHub,2024-04-05
+EVT_0119,Beyonce - Chicago,Upper Bowl,101.78,SeatGeek,2024-03-27
+EVT_0119,Beyonce - Chicago,General Admission,81.29,Ticketmaster,2024-04-10
+EVT_0120,John Mulaney - Miami,VIP,188.31,StubHub,2024-07-20
+EVT_0120,John Mulaney - Miami,Floor,121.97,Ticketmaster,2024-07-27
+EVT_0120,John Mulaney - Miami,Lower Bowl,96.45,SeatGeek,2024-07-18
+EVT_0120,John Mulaney - Miami,Upper Bowl,55.26,Ticketmaster,2024-07-19
+EVT_0120,John Mulaney - Miami,General Admission,40.67,Vivid Seats,2024-08-09
+EVT_0121,Dave Chappelle - Seattle,VIP,181.37,Vivid Seats,2024-08-07
+EVT_0121,Dave Chappelle - Seattle,Floor,119.95,Vivid Seats,2024-08-09
+EVT_0121,Dave Chappelle - Seattle,Lower Bowl,87.85,Ticketmaster,2024-08-23
+EVT_0121,Dave Chappelle - Seattle,Upper Bowl,43.77,Ticketmaster,2024-08-24
+EVT_0121,Dave Chappelle - Seattle,General Admission,38.06,Vivid Seats,2024-08-06
+EVT_0122,Lakers vs Warriors - Chicago,VIP,231.01,Vivid Seats,2024-08-26
+EVT_0122,Lakers vs Warriors - Chicago,Floor,189.0,Vivid Seats,2024-09-07
+EVT_0122,Lakers vs Warriors - Chicago,Lower Bowl,118.66,StubHub,2024-09-14
+EVT_0122,Lakers vs Warriors - Chicago,Upper Bowl,73.17,StubHub,2024-09-04
+EVT_0122,Lakers vs Warriors - Chicago,General Admission,52.85,SeatGeek,2024-09-10
+EVT_0123,Bonnaroo - New York,VIP,480.22,SeatGeek,2024-04-22
+EVT_0123,Bonnaroo - New York,Floor,329.52,SeatGeek,2024-04-02
+EVT_0123,Bonnaroo - New York,Lower Bowl,217.69,StubHub,2024-04-07
+EVT_0123,Bonnaroo - New York,Upper Bowl,113.41,SeatGeek,2024-04-16
+EVT_0123,Bonnaroo - New York,General Admission,95.58,Vivid Seats,2024-04-25
+EVT_0124,Wicked - Los Angeles,VIP,332.7,Ticketmaster,2024-02-23
+EVT_0124,Wicked - Los Angeles,Floor,248.14,StubHub,2024-03-03
+EVT_0124,Wicked - Los Angeles,Lower Bowl,145.55,Ticketmaster,2024-02-18
+EVT_0124,Wicked - Los Angeles,Upper Bowl,86.6,StubHub,2024-03-05
+EVT_0124,Wicked - Los Angeles,General Admission,82.85,Vivid Seats,2024-03-03
+EVT_0125,Taylor Swift - Los Angeles,VIP,353.34,Ticketmaster,2024-08-30
+EVT_0125,Taylor Swift - Los Angeles,Floor,286.3,Ticketmaster,2024-08-14
+EVT_0125,Taylor Swift - Los Angeles,Lower Bowl,210.54,Vivid Seats,2024-08-07
+EVT_0125,Taylor Swift - Los Angeles,Upper Bowl,113.45,SeatGeek,2024-08-10
+EVT_0125,Taylor Swift - Los Angeles,General Admission,105.58,Vivid Seats,2024-08-28
+EVT_0126,Coachella - Miami,VIP,466.46,Ticketmaster,2024-07-19
+EVT_0126,Coachella - Miami,Floor,272.46,Ticketmaster,2024-07-09
+EVT_0126,Coachella - Miami,Lower Bowl,208.43,SeatGeek,2024-07-06
+EVT_0126,Coachella - Miami,Upper Bowl,137.76,Ticketmaster,2024-07-14
+EVT_0126,Coachella - Miami,General Admission,89.89,StubHub,2024-07-20
+EVT_0127,Lollapalooza - Miami,VIP,377.45,Ticketmaster,2024-08-11
+EVT_0127,Lollapalooza - Miami,Floor,323.07,StubHub,2024-08-14
+EVT_0127,Lollapalooza - Miami,Lower Bowl,193.95,SeatGeek,2024-08-15
+EVT_0127,Lollapalooza - Miami,Upper Bowl,111.37,SeatGeek,2024-08-21
+EVT_0127,Lollapalooza - Miami,General Admission,94.04,StubHub,2024-09-01
+EVT_0128,Dave Chappelle - Los Angeles,VIP,227.94,StubHub,2024-11-15
+EVT_0128,Dave Chappelle - Los Angeles,Floor,147.53,StubHub,2024-11-06
+EVT_0128,Dave Chappelle - Los Angeles,Lower Bowl,100.65,SeatGeek,2024-11-21
+EVT_0128,Dave Chappelle - Los Angeles,Upper Bowl,64.45,Vivid Seats,2024-11-16
+EVT_0128,Dave Chappelle - Los Angeles,General Admission,58.38,StubHub,2024-11-09
+EVT_0129,Taylor Swift - Miami,VIP,303.49,SeatGeek,2024-04-04
+EVT_0129,Taylor Swift - Miami,Floor,272.4,Vivid Seats,2024-04-03
+EVT_0129,Taylor Swift - Miami,Lower Bowl,142.17,Vivid Seats,2024-03-23
+EVT_0129,Taylor Swift - Miami,Upper Bowl,105.79,SeatGeek,2024-03-24
+EVT_0129,Taylor Swift - Miami,General Admission,75.15,SeatGeek,2024-04-02
+EVT_0130,Real Madrid vs Barcelona - New York,VIP,293.41,SeatGeek,2024-09-25
+EVT_0130,Real Madrid vs Barcelona - New York,Floor,221.37,SeatGeek,2024-09-18
+EVT_0130,Real Madrid vs Barcelona - New York,Lower Bowl,142.12,StubHub,2024-10-07
+EVT_0130,Real Madrid vs Barcelona - New York,Upper Bowl,90.68,SeatGeek,2024-10-05
+EVT_0130,Real Madrid vs Barcelona - New York,General Admission,58.34,StubHub,2024-09-15
+EVT_0131,Lakers vs Warriors - Miami,VIP,279.48,Ticketmaster,2024-02-22
+EVT_0131,Lakers vs Warriors - Miami,Floor,197.86,SeatGeek,2024-02-26
+EVT_0131,Lakers vs Warriors - Miami,Lower Bowl,119.71,Vivid Seats,2024-02-17
+EVT_0131,Lakers vs Warriors - Miami,Upper Bowl,92.44,Ticketmaster,2024-02-12
+EVT_0131,Lakers vs Warriors - Miami,General Admission,68.15,StubHub,2024-02-17
+EVT_0132,John Mulaney - Miami,VIP,255.13,StubHub,2024-11-04
+EVT_0132,John Mulaney - Miami,Floor,164.84,Ticketmaster,2024-10-20
+EVT_0132,John Mulaney - Miami,Lower Bowl,110.12,StubHub,2024-11-02
+EVT_0132,John Mulaney - Miami,Upper Bowl,60.19,Ticketmaster,2024-10-13
+EVT_0132,John Mulaney - Miami,General Admission,59.69,StubHub,2024-11-07
+EVT_0133,Outside Lands - Seattle,VIP,390.17,StubHub,2024-07-22
+EVT_0133,Outside Lands - Seattle,Floor,263.29,Ticketmaster,2024-07-17
+EVT_0133,Outside Lands - Seattle,Lower Bowl,205.6,SeatGeek,2024-08-04
+EVT_0133,Outside Lands - Seattle,Upper Bowl,105.82,Vivid Seats,2024-08-04
+EVT_0133,Outside Lands - Seattle,General Admission,112.8,SeatGeek,2024-08-05
+EVT_0134,Real Madrid vs Barcelona - Miami,VIP,249.27,Vivid Seats,2024-04-20
+EVT_0134,Real Madrid vs Barcelona - Miami,Floor,189.47,Ticketmaster,2024-04-22
+EVT_0134,Real Madrid vs Barcelona - Miami,Lower Bowl,146.74,SeatGeek,2024-05-09
+EVT_0134,Real Madrid vs Barcelona - Miami,Upper Bowl,80.07,Vivid Seats,2024-05-05
+EVT_0134,Real Madrid vs Barcelona - Miami,General Admission,60.97,Ticketmaster,2024-05-09
+EVT_0135,Patriots vs Cowboys - Seattle,VIP,223.97,Ticketmaster,2024-08-17
+EVT_0135,Patriots vs Cowboys - Seattle,Floor,150.47,SeatGeek,2024-08-12
+EVT_0135,Patriots vs Cowboys - Seattle,Lower Bowl,117.62,SeatGeek,2024-08-24
+EVT_0135,Patriots vs Cowboys - Seattle,Upper Bowl,74.3,Ticketmaster,2024-09-01
+EVT_0135,Patriots vs Cowboys - Seattle,General Admission,63.13,Vivid Seats,2024-08-19
+EVT_0136,Patriots vs Cowboys - Miami,VIP,263.89,SeatGeek,2024-01-29
+EVT_0136,Patriots vs Cowboys - Miami,Floor,162.33,Vivid Seats,2024-02-02
+EVT_0136,Patriots vs Cowboys - Miami,Lower Bowl,112.1,Vivid Seats,2024-01-25
+EVT_0136,Patriots vs Cowboys - Miami,Upper Bowl,70.95,SeatGeek,2024-02-06
+EVT_0136,Patriots vs Cowboys - Miami,General Admission,51.63,Ticketmaster,2024-01-20
+EVT_0137,Wicked - Chicago,VIP,290.12,Ticketmaster,2024-06-03
+EVT_0137,Wicked - Chicago,Floor,171.4,Ticketmaster,2024-06-03
+EVT_0137,Wicked - Chicago,Lower Bowl,110.06,Ticketmaster,2024-06-19
+EVT_0137,Wicked - Chicago,Upper Bowl,74.31,SeatGeek,2024-05-25
+EVT_0137,Wicked - Chicago,General Admission,64.77,Ticketmaster,2024-06-15
+EVT_0138,Hamilton - Los Angeles,VIP,282.21,StubHub,2024-03-17
+EVT_0138,Hamilton - Los Angeles,Floor,189.53,SeatGeek,2024-03-15
+EVT_0138,Hamilton - Los Angeles,Lower Bowl,118.66,SeatGeek,2024-03-12
+EVT_0138,Hamilton - Los Angeles,Upper Bowl,87.0,StubHub,2024-03-14
+EVT_0138,Hamilton - Los Angeles,General Admission,68.81,StubHub,2024-03-13
+EVT_0139,Real Madrid vs Barcelona - Los Angeles,VIP,255.69,Ticketmaster,2024-12-26
+EVT_0139,Real Madrid vs Barcelona - Los Angeles,Floor,166.84,StubHub,2024-12-11
+EVT_0139,Real Madrid vs Barcelona - Los Angeles,Lower Bowl,130.55,Ticketmaster,2024-12-18
+EVT_0139,Real Madrid vs Barcelona - Los Angeles,Upper Bowl,71.17,Ticketmaster,2024-12-13
+EVT_0139,Real Madrid vs Barcelona - Los Angeles,General Admission,65.72,SeatGeek,2024-12-13
+EVT_0140,Lakers vs Warriors - Miami,VIP,257.03,Vivid Seats,2024-07-14
+EVT_0140,Lakers vs Warriors - Miami,Floor,209.56,Ticketmaster,2024-07-05
+EVT_0140,Lakers vs Warriors - Miami,Lower Bowl,122.3,Ticketmaster,2024-07-01
+EVT_0140,Lakers vs Warriors - Miami,Upper Bowl,80.86,Vivid Seats,2024-07-18
+EVT_0140,Lakers vs Warriors - Miami,General Admission,61.46,Ticketmaster,2024-07-06
+EVT_0141,Phantom of the Opera - Miami,VIP,249.14,Vivid Seats,2024-01-20
+EVT_0141,Phantom of the Opera - Miami,Floor,202.79,Vivid Seats,2024-01-14
+EVT_0141,Phantom of the Opera - Miami,Lower Bowl,114.43,Ticketmaster,2024-01-23
+EVT_0141,Phantom of the Opera - Miami,Upper Bowl,74.29,Vivid Seats,2024-01-09
+EVT_0141,Phantom of the Opera - Miami,General Admission,61.9,Vivid Seats,2024-01-15
+EVT_0142,Real Madrid vs Barcelona - Miami,VIP,324.51,SeatGeek,2024-09-29
+EVT_0142,Real Madrid vs Barcelona - Miami,Floor,194.95,Ticketmaster,2024-10-08
+EVT_0142,Real Madrid vs Barcelona - Miami,Lower Bowl,124.17,Vivid Seats,2024-09-30
+EVT_0142,Real Madrid vs Barcelona - Miami,Upper Bowl,69.7,Ticketmaster,2024-10-14
+EVT_0142,Real Madrid vs Barcelona - Miami,General Admission,71.1,Vivid Seats,2024-10-11
+EVT_0143,Coldplay - Miami,VIP,385.99,Vivid Seats,2024-08-24
+EVT_0143,Coldplay - Miami,Floor,256.45,Ticketmaster,2024-08-21
+EVT_0143,Coldplay - Miami,Lower Bowl,186.06,Ticketmaster,2024-08-02
+EVT_0143,Coldplay - Miami,Upper Bowl,114.49,StubHub,2024-08-05
+EVT_0143,Coldplay - Miami,General Admission,93.8,Ticketmaster,2024-08-02
+EVT_0144,Beyonce - Chicago,VIP,351.3,Ticketmaster,2024-07-04
+EVT_0144,Beyonce - Chicago,Floor,273.79,Ticketmaster,2024-07-04
+EVT_0144,Beyonce - Chicago,Lower Bowl,166.54,StubHub,2024-07-08
+EVT_0144,Beyonce - Chicago,Upper Bowl,106.24,SeatGeek,2024-06-27
+EVT_0144,Beyonce - Chicago,General Admission,90.87,StubHub,2024-07-13
+EVT_0145,Dave Chappelle - Miami,VIP,171.6,Ticketmaster,2024-04-14
+EVT_0145,Dave Chappelle - Miami,Floor,122.47,Vivid Seats,2024-03-28
+EVT_0145,Dave Chappelle - Miami,Lower Bowl,88.3,StubHub,2024-04-01
+EVT_0145,Dave Chappelle - Miami,Upper Bowl,56.26,Ticketmaster,2024-04-06
+EVT_0145,Dave Chappelle - Miami,General Admission,45.95,SeatGeek,2024-04-19
+EVT_0146,Phantom of the Opera - Miami,VIP,250.74,SeatGeek,2024-01-04
+EVT_0146,Phantom of the Opera - Miami,Floor,174.86,SeatGeek,2023-12-20
+EVT_0146,Phantom of the Opera - Miami,Lower Bowl,134.58,SeatGeek,2023-12-17
+EVT_0146,Phantom of the Opera - Miami,Upper Bowl,72.87,Ticketmaster,2023-12-21
+EVT_0146,Phantom of the Opera - Miami,General Admission,60.21,SeatGeek,2024-01-03
+EVT_0147,John Mulaney - Miami,VIP,207.95,Vivid Seats,2024-03-12
+EVT_0147,John Mulaney - Miami,Floor,141.27,StubHub,2024-02-25
+EVT_0147,John Mulaney - Miami,Lower Bowl,78.22,SeatGeek,2024-02-24
+EVT_0147,John Mulaney - Miami,Upper Bowl,59.04,Vivid Seats,2024-03-17
+EVT_0147,John Mulaney - Miami,General Admission,39.11,SeatGeek,2024-03-09
+EVT_0148,Dave Chappelle - Seattle,VIP,198.69,Vivid Seats,2024-09-25
+EVT_0148,Dave Chappelle - Seattle,Floor,120.23,Ticketmaster,2024-09-22
+EVT_0148,Dave Chappelle - Seattle,Lower Bowl,101.57,Vivid Seats,2024-09-04
+EVT_0148,Dave Chappelle - Seattle,Upper Bowl,56.3,SeatGeek,2024-09-07
+EVT_0148,Dave Chappelle - Seattle,General Admission,46.38,Ticketmaster,2024-09-26
+EVT_0149,Drake - Seattle,VIP,328.73,StubHub,2024-10-07
+EVT_0149,Drake - Seattle,Floor,231.99,Vivid Seats,2024-10-04
+EVT_0149,Drake - Seattle,Lower Bowl,172.97,StubHub,2024-10-09
+EVT_0149,Drake - Seattle,Upper Bowl,97.34,StubHub,2024-09-29
+EVT_0149,Drake - Seattle,General Admission,83.76,Vivid Seats,2024-10-08
