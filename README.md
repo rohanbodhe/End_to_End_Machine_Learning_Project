@@ -11,10 +11,10 @@ Predicts optimal ticket prices based on urgency, capacity, weather, competitors,
 - **Prediction Error:** ±$3.14 RMSE
 - **Best Model:** Random Forest (MSE: 9.88)
 - **Dataset:** 30,000+ ticket transactions
-
+  
 ## 🛠️ Tech Stack
 - **Python:** Pandas, NumPy, Scikit-learn, XGBoost
-- **ML Models:** Linear Regression, Random Forest, XGBoost (both 99%+ accurate)
+- **ML Models:** Random Forest, XGBoost (both 99%+ accurate)
 - **Database:** SQLite with 15+ analytical queries
 - **Deployment:** Streamlit Cloud
 - **Version Control:** Git & GitHub
@@ -27,7 +27,6 @@ Predicts optimal ticket prices based on urgency, capacity, weather, competitors,
 | XGBoost | 10.09 | 0.991 | Excellent |
 | Linear Regression | ~45.2 | ~0.82 | Baseline |
 
-**Winner:** Random Forest with 99.1% accuracy!
 
 ## 🎓 Key Achievements
 - ✅ 99%+ prediction accuracy (industry-leading)
@@ -38,3 +37,15 @@ Predicts optimal ticket prices based on urgency, capacity, weather, competitors,
 
 ## 🚀 Quick Start
 ```bash
+git clone https://github.com/YOUR_USERNAME/ticket-pricing-ml.git
+cd ticket-pricing-ml
+pip install -r requirements.txt
+streamlit run dashboard/app.py
+```
+
+
+⭐ If this project helped you, please star the repo!
+---
+enges do you face in your industry?
+
+#DataScience #MachineLearning #Python #RandomForest
